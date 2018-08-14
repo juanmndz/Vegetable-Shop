@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Broccoli",
+      "image": "broccoli.jpg",
+      "age": ["0", "+"],
+      "price": 3.99
+    },
+    {
+      "id": 2,
+      "name": "Carrots",
+      "image": "carrots.jpg",
+      "age": ["3", "10"],
+      "price": 3.99
+    },
+    {
+      "id": 3,
+      "name": "Beetroot",
+      "image": "beetroot.jpg",
+      "price": 4.99
+    },
+    {
+      "id": 4,
+      "name": "Tomato",
+      "image": "tomato.jpg",
+      "price": 3.99
+    },
+    {
+      "id": 5,
+      "name": "Cucumber",
+      "image": "cucumber.jpg",
+      "price": 6.99
+    },
+    {
+      "id": 6,
+      "name": "Brinjal",
+      "image": "brinjal.jpg",
+      "price": 7.99
+    },
+    {
+      "id": 7,
+      "name": "Cauliflower",
+      "image": "cauliflower.jpg",
+      "price": 8.99
+    }
+  ]
+}
