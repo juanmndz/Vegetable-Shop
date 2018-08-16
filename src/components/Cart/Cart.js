@@ -13,8 +13,8 @@ const sort = items => {
 
 const Cart = props => {
   let subTotals = [];
-
-  props.cart.map(item => {
+// eslint-disable-line no-extend-native
+props.cart.map(item => {
     subTotals.push(item.quantity * item.price);
   });
 
