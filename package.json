@@ -2,6 +2,7 @@
   "name": "veggzies",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://juanmndz.github.io/ShoppingCart/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.2.0",
