@@ -2,7 +2,6 @@
   "name": "veggzies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juanmndz.github.io/ShoppingCart/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.2.0",
@@ -17,7 +16,10 @@
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0"
   },
+  "homepage": "https://juanmndz.github.io/ShoppingCart/",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
