@@ -18,6 +18,7 @@
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0"
   },
+  "homepage" : "https://juanmndz.github.io/Vegetable-Shop/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
