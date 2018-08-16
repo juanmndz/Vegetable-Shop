@@ -1,6 +1,6 @@
-# Vegetable-Shop Veggzies [![Build Status](https://travis-ci.org/juanmndz/hackernews.svg?branch=master)](https://travis-ci.org/juanmndz/hackernews)
+# Vegetable-Shop Veggzies [![Build Status](https://travis-ci.org/juanmndz/Vegetable-Shop.svg?branch=master)](https://travis-ci.org/juanmndz/Vegetable-Shop)
 
-Use Hackernews api to create search request for Hackernews with custom parameters.
+Veggzies is a mock vegetable shopping website built with React and Reactstrap
 
 ## Live Demo
 
@@ -20,7 +20,7 @@ As a User, I can remove or add items in the shopping cart.
 
 - [ReactJS](https://reactjs.org/)
 - [create-react-app](https://github.com/facebook/create-react-app)
-- [HackerNewsApi](https://github.com/HackerNews/API)
+- [Reactstrap](https://reactstrap.github.io)
 
 ## Setup
 
