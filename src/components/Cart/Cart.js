@@ -13,7 +13,7 @@ const sort = items => {
 
 const Cart = props => {
   let subTotals = [];
-// eslint-disable-line no-extend-native
+// eslint-disable-next-line
 props.cart.map(item => {
     subTotals.push(item.quantity * item.price);
   });
