@@ -4,7 +4,7 @@ Veggzies is a mock vegetable shopping website built with React and Reactstrap
 
 ## Live Demo
 
-[Demo](https://juanmndz.github.io/Vegetable-Shop/)
+[Demo](http://vegetable-shop.surge.sh/)
 
 ![Demo](https://res.cloudinary.com/dni2ym3yq/image/upload/v1534403090/veggzies.gif)
 
